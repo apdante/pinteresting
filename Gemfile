@@ -22,9 +22,6 @@ gem 'bootstrap-sass'
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'certified'
 
-end
-
-
 group :development, :test do
 	gem 'sqlite3'
 end
